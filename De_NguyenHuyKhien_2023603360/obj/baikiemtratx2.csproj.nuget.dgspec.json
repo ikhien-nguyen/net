@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NET\\C#\\baikiemtratx2\\baikiemtratx2.csproj": {}
+    "D:\\NET\\C#\\net\\De_NguyenHuyKhien_2023603360\\baikiemtratx2.csproj": {}
   },
   "projects": {
-    "D:\\NET\\C#\\baikiemtratx2\\baikiemtratx2.csproj": {
+    "D:\\NET\\C#\\net\\De_NguyenHuyKhien_2023603360\\baikiemtratx2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NET\\C#\\baikiemtratx2\\baikiemtratx2.csproj",
+        "projectUniqueName": "D:\\NET\\C#\\net\\De_NguyenHuyKhien_2023603360\\baikiemtratx2.csproj",
         "projectName": "baikiemtratx2",
-        "projectPath": "D:\\NET\\C#\\baikiemtratx2\\baikiemtratx2.csproj",
+        "projectPath": "D:\\NET\\C#\\net\\De_NguyenHuyKhien_2023603360\\baikiemtratx2.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NET\\C#\\baikiemtratx2\\obj\\",
+        "outputPath": "D:\\NET\\C#\\net\\De_NguyenHuyKhien_2023603360\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
