@@ -1,0 +1,24 @@
+﻿<Application x:Class="baikiemtratx2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:baikiemtratx2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="15"></Setter>
+            <Setter Property="Foreground" Value="green"></Setter>
+        </Style>
+        <ControlTemplate TargetType="Button" x:Key="themTemp">
+            <Grid>
+                <Ellipse Fill="pink"></Ellipse>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"></ContentPresenter>
+            </Grid>
+        </ControlTemplate>
+        <ControlTemplate TargetType="Button" x:Key="win2Temp">
+            <Grid>
+                <Ellipse Fill="blue"></Ellipse>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"></ContentPresenter>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>
